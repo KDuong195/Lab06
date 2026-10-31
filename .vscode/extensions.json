@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "vscjava.vscode-java-pack"
+  ]
+}E
+cat > $P/.gitignore <<'E'
+target/
+.classpath
+.project
+.settings/
